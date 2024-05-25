@@ -1,5 +1,5 @@
 # Youtube-Video-Summarizer
-Tech Stack://
+Tech Stack:\\
 Programming Languages: Python
 Google Cloud Platform: Vertex AI
 Collaborative Environment: Google Colab
